@@ -82,6 +82,8 @@ export { default as Table } from './Table';
 export * from './Table';
 export { default as ToggleButton } from './ToggleButton';
 export * from './ToggleButton';
+export { default as ToggleButtonGroup } from './ToggleButtonGroup';
+export * from './ToggleButtonGroup';
 export { default as Tooltip } from './Tooltip';
 export * from './Tooltip';
 export { default as Typography } from './Typography';
@@ -96,6 +98,8 @@ export { default as MultipleSelectChip } from './composite_components/MultipleSe
 export * from './composite_components/MultipleSelectChip';
 export { default as SearchCriteria } from './composite_components/SearchCriteria';
 export * from './composite_components/SearchCriteria';
+export { default as ProgressBar } from './composite_components/ProgressBar';
+export * from './composite_components/ProgressBar';
 
 /* Place hidden component module exports here below */
 export { default as Accordion } from './Accordion';
